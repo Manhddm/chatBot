@@ -1,0 +1,4 @@
+streamlit
+pydf2
+langchain
+faiss-cpu
